@@ -1,0 +1,10 @@
+mule.version = 3.9.1
+anypoint.username = parthureddy
+anypoint.password = Parthu@358
+artifactId = newtestravichandra
+cloundhub.env = Sandbox
+anypoint.businessGroup = personal
+cloudhub.region = us-esat-1
+anypoint.uri = https://anypoint.mulesoft.com
+cloudhub.workerType = Micro
+cloudhub.workers = 1
